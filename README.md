@@ -28,5 +28,4 @@ AK Virtual Assistant is an intelligent voice-controlled assistant built using Py
 
 ---
 
-## 📂 Project Structure
 
